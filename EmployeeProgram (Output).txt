@@ -1,0 +1,22 @@
+ 
+  ----jGRASP exec: java EmployeeProgram
+ starting
+ 
+ Name             ID Number           Department          Position           Annual Salary      
+ --------------------------------------------------------------------------------------------
+ 
+ Susan Meyers       47899              Accounting          President         $85000.00
+ Bob Smith          56789              Accounting         Vice President     $75000.00
+ Mark Jones         39119              IT                 Executive manager  $75000.00
+ Joy Rogers         81774              Manufacturing      Engineer           $66000.00
+ Mary McMath        34567              Marketing          Manager            $66000.00
+ John Gail          23677              Marketing          Assistant Manager  $54000.00
+ Kim Lee            45997              Cleaning           Head               $40000.00
+ Van Minx           65545              IT                 Programmer         $66000.00
+ Sylvia Benjamin    87654              IT                 Programmer         $67000.00
+ Frans Kelenuoh     34001              Accounting         Accounter          $70000.00
+ 
+ end
+ 
+  ----jGRASP: operation complete.
+ 
